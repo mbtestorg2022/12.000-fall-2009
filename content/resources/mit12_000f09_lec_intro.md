@@ -7,6 +7,7 @@ description: 'Lecture presentation on Terrascope, solving complex problems, past
   level. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-000-solving-complex-problems-fall-2009/b54755ac3fc3e770d635b1c12d91b8a7_MIT12_000F09_lec_intro.pdf
 file_type: application/pdf
+parent_uid: 0e138d85-5188-602f-49af-c09303529c8d
 resourcetype: Document
 title: Introductory Lecture
 uid: b54755ac-3fc3-e770-d635-b1c12d91b8a7
